@@ -15,6 +15,7 @@ const promisifiedFunc = promisify(asyncFunc);
 promisifiedFunc('test')
   .then(result => console.log(result)) // Output: 'test' after 1 second
   .catch(error => console.error(error));
+```
 
 ## Constraints
     - Do not use any third-party libraries.

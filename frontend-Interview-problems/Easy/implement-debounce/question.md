@@ -16,6 +16,7 @@ debouncedFunction();
 debouncedFunction();
 debouncedFunction();
 // "Executed!" will be logged to the console 2000 milliseconds after the last call.
+```
 
 ## Constraints
 The debounce function should handle consecutive calls correctly.

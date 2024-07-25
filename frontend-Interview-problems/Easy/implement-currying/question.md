@@ -10,6 +10,7 @@ function add(a, b) {
 }
 const curriedAdd = curry(add);
 console.log(curriedAdd(1)(2)); // 3
+```
 
 ## Constraints
   - Do not use any third-party libraries.

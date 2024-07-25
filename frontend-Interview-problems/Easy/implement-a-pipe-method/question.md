@@ -11,6 +11,7 @@ const subtract = x => x - 3;
 
 const pipedFunction = pipe(add, multiply, subtract);
 console.log(pipedFunction(5)); // Output: 9 ((5 + 1) * 2 - 3)
+```
 
 ## Constraints
     - Do not use any third-party libraries.

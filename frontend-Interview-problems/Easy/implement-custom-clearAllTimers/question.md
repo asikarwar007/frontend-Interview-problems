@@ -10,6 +10,7 @@ const timer2 = setInterval(() => console.log('Interval 1'), 1000);
 const timer3 = setTimeout(() => console.log('Timeout 2'), 2000);
 
 clearAllTimers(); // This should clear timer1, timer2, and timer3
+```
 
 ## Constraints
     - Do not use any third-party libraries.

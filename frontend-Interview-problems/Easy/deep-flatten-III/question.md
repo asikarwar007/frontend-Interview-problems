@@ -10,6 +10,7 @@ console.log(deepFlatten([1, [2, [3, [4]], 5]]));
 
 console.log(deepFlatten([[1, 2, [3]], 4, [5, [6, 7]]])); 
 // Output: [1, 2, 3, 4, 5, 6, 7]
+```
 
 ## Constraints
     - Do not use any third-party libraries.

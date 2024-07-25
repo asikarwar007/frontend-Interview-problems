@@ -12,6 +12,7 @@ const task3 = () => new Promise((resolve) => setTimeout(() => resolve('Task 3'),
 race([task1, task2, task3])
   .then(result => console.log(result)) // Output: 'Task 3'
   .catch(error => console.error(error)); // Output: 'Task 2 Error' (if rejection happens first)
+```
 
 ## Constraints
     - Do not use Promise.race or any third-party libraries.

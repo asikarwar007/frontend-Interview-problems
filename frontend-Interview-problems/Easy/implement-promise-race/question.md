@@ -12,6 +12,7 @@ const promise3 = new Promise((resolve, reject) => setTimeout(reject, 50, 'three'
 promiseRace([promise1, promise2, promise3])
   .then((value) => console.log(value)) // Output: 'three'
   .catch((error) => console.log(error)); // Output: 'three' (if rejection happens first)
+```
 
 ## Constraints
 Do not use Promise.race or any third-party libraries.

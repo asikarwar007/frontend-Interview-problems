@@ -11,6 +11,7 @@ console.log(is(null, null)); // Output: true
 console.log(is(0, -0)); // Output: false
 console.log(is(NaN, NaN)); // Output: true
 console.log(is({}, {})); // Output: false
+```
 
 ## Constraints
     - Do not use Object.is() or any third-party libraries.
