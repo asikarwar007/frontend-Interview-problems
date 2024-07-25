@@ -15,7 +15,7 @@ promiseRace([promise1, promise2, promise3])
 ```
 
 ## Constraints
-Do not use Promise.race or any third-party libraries.
+  - Do not use Promise.race or any third-party libraries.
 
 ## Notes
 The Promise.race method returns a promise that resolves or rejects as soon as one of the promises in the array resolves or rejects.

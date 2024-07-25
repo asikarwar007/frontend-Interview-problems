@@ -19,8 +19,8 @@ debouncedFunction();
 ```
 
 ## Constraints
-The debounce function should handle consecutive calls correctly.
-Do not use any third-party libraries.
+  - The debounce function should handle consecutive calls correctly.
+  - Do not use any third-party libraries.
 
 ## Notes
 Debouncing is a common technique used in handling events like keystrokes, mouse movements, etc., where you want to limit the rate at which a function gets called.
