@@ -14,10 +14,10 @@ console.log(is({}, {})); // Output: false
 ```
 
 ## Constraints
-  -Do not use Object.is() or any third-party libraries.
+  - Do not use Object.is() or any third-party libraries.
 
 ## Notes
 The Object.is() method differs from the strict equality (===) operator in two ways:
 
-  -Object.is(NaN, NaN) returns true, while NaN === NaN returns false.
-  -Object.is(0, -0) returns false, while 0 === -0 returns true.
+  - Object.is(NaN, NaN) returns true, while NaN === NaN returns false.
+  - Object.is(0, -0) returns false, while 0 === -0 returns true.

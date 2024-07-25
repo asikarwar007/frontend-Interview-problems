@@ -13,8 +13,8 @@ console.log(deepFlatten([[1, 2, [3]], 4, [5, [6, 7]]]));
 ```
 
 ## Constraints
-  -Do not use any third-party libraries.
-  -The function should handle arrays of arbitrary depth.
+  - Do not use any third-party libraries.
+  - The function should handle arrays of arbitrary depth.
 
 ## Notes
 Deep flattening an array involves converting nested arrays into a single flat array containing all the elements from the nested arrays.

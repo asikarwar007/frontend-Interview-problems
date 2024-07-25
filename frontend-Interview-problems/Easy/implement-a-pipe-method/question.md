@@ -14,8 +14,8 @@ console.log(pipedFunction(5)); // Output: 9 ((5 + 1) * 2 - 3)
 ```
 
 ## Constraints
-  -Do not use any third-party libraries.
-  -The functions passed to pipe will always take a single argument and return a single value.
+  - Do not use any third-party libraries.
+  - The functions passed to pipe will always take a single argument and return a single value.
 
 ## Notes
 Piping functions is a common technique in functional programming where the output of one function is passed as the input to the next function.
