@@ -19,7 +19,7 @@ This repository contains solutions to various frontend interview problems, categ
 | 11 | [Implement Currying with Placeholders](frontend-Interview-problems/Medium/implement-currying-with-placeholders/question.md) | ![Medium](https://img.shields.io/badge/Level-Medium-yellow) | Google, Facebook |
 | 12 | [Deep Flatten I](frontend-Interview-problems/Medium/deep-flatten-i/question.md) | ![Medium](https://img.shields.io/badge/Level-Medium-yellow) | Google, Facebook |
 | 13 | [Deep Flatten II](frontend-Interview-problems/Medium/deep-flatten-ii/question.md) | ![Medium](https://img.shields.io/badge/Level-Medium-yellow) | Google, Facebook |
-| 14 | [Negative Indexing in Arrays (Proxies)](frontend-Interview-problems/Medium/negative-indexing-in-arrays-proxies/question.md) | ![Medium](https://img.shields.io/badge/Level-Medium-yellow) | Google, Facebook |
+| 14 | [Negative Indexing in Arrays (Proxies)](frontend-Interview-problems/Medium/negative-indexing-in-arrays/question.md) | ![Medium](https://img.shields.io/badge/Level-Medium-yellow) | Google, Facebook |
 | 15 | [Implement Auto-retry Promises](frontend-Interview-problems/Medium/implement-auto-retry-promises/question.md) | ![Medium](https://img.shields.io/badge/Level-Medium-yellow) | Google, Facebook |
 | 16 | [Implement Promise.all](frontend-Interview-problems/Medium/implement-promise-all/question.md) | ![Medium](https://img.shields.io/badge/Level-Medium-yellow) | Google, Facebook |
 | 17 | [Implement Promise.allSettled](frontend-Interview-problems/Medium/implement-promise-allsettled/question.md) | ![Medium](https://img.shields.io/badge/Level-Medium-yellow) | Google, Facebook |
