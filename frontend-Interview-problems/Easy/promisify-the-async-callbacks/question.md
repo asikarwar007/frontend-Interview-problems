@@ -18,7 +18,7 @@ promisifiedFunc('test')
 ```
 
 ## Constraints
-    - Do not use any third-party libraries.
-    - The original func should follow the Node.js callback style, where the last argument is a callback function that takes an error as the first argument and the result as the second argument.
+  -Do not use any third-party libraries.
+  -The original func should follow the Node.js callback style, where the last argument is a callback function that takes an error as the first argument and the result as the second argument.
 ## Notes
 Promisifying a function allows you to work with promises instead of callbacks, which can make the code more readable and easier to work with.

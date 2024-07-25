@@ -15,7 +15,7 @@ race([task1, task2, task3])
 ```
 
 ## Constraints
-    - Do not use Promise.race or any third-party libraries.
+  -Do not use Promise.race or any third-party libraries.
 
 ## Notes
 The race function should handle any number of async tasks and return a promise that resolves or rejects as soon as one of the tasks completes or fails.

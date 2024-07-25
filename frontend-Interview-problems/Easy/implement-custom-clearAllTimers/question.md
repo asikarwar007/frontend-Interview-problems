@@ -13,8 +13,8 @@ clearAllTimers(); // This should clear timer1, timer2, and timer3
 ```
 
 ## Constraints
-    - Do not use any third-party libraries.
-    - The function should handle any number of active timers.
+  -Do not use any third-party libraries.
+  -The function should handle any number of active timers.
 
 ## Notes
 Clearing all active timers is useful in scenarios where you want to ensure no pending or ongoing timeouts or intervals are left running, such as during cleanup in tests or when resetting application state.
